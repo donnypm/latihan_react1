@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Merriweather:wght@300&family=Poppins:wght@400&display=swap");
+
+body {
+  background-color: #d9ce3f;
+  font-family: "poppins", serif;
+}
+
+.App {
+  margin: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  border-radius: 20px;
+  width: 60%;
+  padding: 30px;
+  background-color: #000;
+  color: white;
+}
+
+.content {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+
+.content-paragraf {
+  text-align: justify;
+}
+
+.content-image {
+  width: 750px;
+  height: auto;
+  border-radius: 10px;
+  max-width: 100%;
+}
+
+.content-link {
+  text-decoration: none;
+  color: white;
+  cursor: pointer;
+}
