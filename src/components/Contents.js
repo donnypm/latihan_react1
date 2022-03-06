@@ -16,6 +16,7 @@ const Contents = () => {
                 <a href={content.link} className="content-link">
                   More Info
                 </a>
+                <hr style={{ border: "1px dashed white" }} />
               </div>
             );
           })}
